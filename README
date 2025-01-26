@@ -1,0 +1,7 @@
+This is a connect 4 game. I had created during an assignment for my university degree. This was created using c#. users can input their names, which personalises the program towards the user
+via implementing their names into the main menu section. in addition, users can select how many players are playing a round of connect 4.
+This will switch between gamemodes depending on the person which is between PvP and PvE. however, the PvE mode is extremely basic and buggy, so I recommend playing with another person.
+each player has their color coded counters, seen in the physical copies of connect 4 which are red and yellow. the user can choose which column to drop their counter into and will drop it at the bottom.
+
+lastly, the program checks for any type of win, which is vertical, horizontal and diagonal and will check for a draw, if the board is full without nay win conditions being met.
+  
